@@ -8,3 +8,4 @@
 6. https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F
 7. https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G
 8. https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H
+9. https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I
