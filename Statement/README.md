@@ -17,3 +17,4 @@
 21. https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U
 22. https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V
 23. https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W
+28. https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B
