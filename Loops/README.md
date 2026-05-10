@@ -4,3 +4,4 @@
 18. https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R
 34. https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G
 35. https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A
+36. https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B
