@@ -91,3 +91,5 @@
 [Problem 45](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K)
 
 [Problem 46](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L)
+
+[Problem 47](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M)
