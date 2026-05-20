@@ -97,3 +97,5 @@
 [Problem 48](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R)
 
 [Problem 49](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S)
+
+[Problem 50](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W)
