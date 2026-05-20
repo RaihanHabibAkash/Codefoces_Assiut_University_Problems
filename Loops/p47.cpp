@@ -1,3 +1,6 @@
+// Problem: Lucky Numbers
+// Platform: Codeforces
+// Link: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M
 /*
 M. Lucky Numbers
 time limit per test1 second
