@@ -37,3 +37,9 @@
 [Problem 68](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/D)
 
 [Problem 69](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/G)
+
+[Solution 90](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/L)
+
+[Solution 91](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/N)
+
+[Solution 102](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/L)

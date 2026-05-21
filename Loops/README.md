@@ -29,3 +29,11 @@
 [Problem 49](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S)
 
 [Problem 50](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W)
+
+[Problem 85](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/B)
+
+[Problem 86](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/D)
+
+[Problem 88](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/G)
+
+[Solution 89](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/H)
