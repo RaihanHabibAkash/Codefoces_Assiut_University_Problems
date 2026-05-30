@@ -43,3 +43,5 @@
 [Solution 104](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O)
 
 [Solution 105](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P)
+
+[Solution 106](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q)
