@@ -49,3 +49,5 @@
 [Problem 84](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/A)
 
 [Problem 87](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/E)
+
+[Solution 111](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/A)
