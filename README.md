@@ -227,3 +227,5 @@
 [113 U. Knapsack](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/U)
 
 [114 X. The maximum path-sum](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/X)
+
+[115 H. Good or Bad](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/H)

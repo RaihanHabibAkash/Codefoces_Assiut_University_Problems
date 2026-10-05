@@ -29,3 +29,5 @@
 [Problem 82](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/U)
 
 [Problem 83](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/V)
+
+[115 H. Good or Bad](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/H)
